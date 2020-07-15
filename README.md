@@ -1,6 +1,6 @@
 # NLP
 
-#Steps
+# Steps
 * ### Import Data
 * ### Clean Data
 * ### Create Bag of Word Model or Tokenize
@@ -21,3 +21,5 @@
 # RESULTS
 
 * ###  Support Vector Classifier achieved the highest accuracy of 82.5% while Naive Bayes achieved test accuracy of 68% 
+
+Important Link: https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b

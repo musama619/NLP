@@ -3,7 +3,8 @@
 # Steps
 * ### Import Data
 * ### Clean Data
-* ### Create Bag of Word Model or Tokenize
+* ### Create Bag of Word Model
+* ### Vectorizing
 * ### Split Data into Train and Test
 * ### Train Model
 * ### Predict
